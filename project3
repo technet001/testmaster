@@ -1,6 +1,6 @@
 hello this line is added in the working directory but not exist in the staging area 
+new line in the stagin area
+line is added in working directory 
 line number 2
 line number 3
-line number 4
-line number 5
-this line is inserted in staging area but not in local repo
+
